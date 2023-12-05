@@ -4,7 +4,7 @@
 to install:
 ```
 git clone https://github.com/Drisk4580/dwm-tyy
-cd dwm-tyy
+cd dwm-tty
 ./dwm-helper.sh
 ```
 
