@@ -1,5 +1,6 @@
 # TTY-like dwm setup for Ubuntu
-*DONT RUN THE SCRIPT AS ROOT*
+**DONT RUN THE SCRIPT AS ROOT**
+
 to install:
 ```
 git clone https://github.com/Drisk4580/dwm-tyy
