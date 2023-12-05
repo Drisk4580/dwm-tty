@@ -10,9 +10,9 @@ cd dwm-tyy
 
 ## KEYBINDS
 dwm:
-   * MOD4 (windows key) + <number from 1-9> : Switch to the <number> workspace
-   * MOD4 + Enter : start st
-   * MOD4 + d : open dmenu
+   * Mod4 (windows key) + <number from 1-9> : Switch to the <number> workspace
+   * Mod4 + Enter : start st
+   * Mod4 + d : open dmenu
 the rest can be found in `config.dwm`
 
 st:
