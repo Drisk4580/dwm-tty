@@ -15,6 +15,8 @@ echo -e "Building st..."
 make
 sudo make clean install
 
+cd ..
+
 echo -e "Installing .desktop for dwm..."
 sudo cp dwm.desktop /usr/share/xsession/dwm.desktop
 echo -e "Installing autostart script..."
