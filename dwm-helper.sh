@@ -21,4 +21,4 @@ cd ..
 echo -e "Installing .desktop for dwm..."
 sudo cp dwm.desktop /usr/share/xsession/dwm.desktop
 echo -e "Installing autostart script..."
-cp -r .dwm/ $HOME/.dwm/
+sudo cp autostart.sh /usr/local/bin/dwm-autostart
