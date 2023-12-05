@@ -13,11 +13,13 @@ dwm:
    * Mod4 (windows key) + <number from 1-9> : Switch to the <number> workspace
    * Mod4 + Enter : start st
    * Mod4 + d : open dmenu
+
 the rest can be found in `config.dwm`
 
 st:
    * CTRL + '+' : increase the font size
    * CTRL + '-' : decrease the font size
+
 the rest can be found in `config.st`
 
 ## CONFIGURATION
