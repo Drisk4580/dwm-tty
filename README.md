@@ -22,4 +22,5 @@ the rest can be found in `config.st`
 
 ## CONFIGURATION
 Modify the `config.dwm` and `config.st`
+
 To add a wallpaper and autostart for applications modify `$HOME/.dwm/autostart.sh`
