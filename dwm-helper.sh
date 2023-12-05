@@ -11,6 +11,7 @@ make
 sudo make clean install
 
 cd ../st
+cp ../config.st config.h
 echo -e "Building st..."
 make
 sudo make clean install
