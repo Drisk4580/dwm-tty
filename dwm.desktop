@@ -2,7 +2,6 @@
 Encoding=UTF-8
 Name=dwm
 Comment=Dynamic window manager
-Exec=~/.dwm/autostart.sh
-Terminal=False
-TryExec=~/.dwm/autostart.sh
+Exec=dwm-autostart
+TryExec=dwm-autostart
 Type=Application
