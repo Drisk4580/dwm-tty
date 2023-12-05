@@ -3,7 +3,7 @@
 
 to install:
 ```
-git clone https://github.com/Drisk4580/dwm-tyy
+git clone https://github.com/Drisk4580/dwm-tty
 cd dwm-tty
 ./dwm-helper.sh
 ```
